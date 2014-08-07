@@ -1,3 +1,3 @@
 #!/bin/bash
 
-chuckwagon r | bash
+chuckwagon r | sed -n -e 's/^CW: //p' --unbuffered | bash
