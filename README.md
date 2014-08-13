@@ -2,7 +2,7 @@
 
 This is the demo code used during our [DEF CON 22 talk](https://www.defcon.org/html/defcon-22/dc-22-speakers.html#Datko). The full slides are [here](https://cryptotronix.files.wordpress.com/2014/08/dc_22_diy_hardware_implant.pdf).
 
-The Arduino sketch can be uploaded to the ATmega32p on the CryptoCape and the bash scripts are used by the target and host.
+The Arduino sketch can be uploaded to the ATmega32p on the [CryptoCape](https://www.sparkfun.com/products/12773) and the bash scripts are used by the target and host.
 
 ## Hardware Files
 
